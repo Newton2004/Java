@@ -1,4 +1,5 @@
-import java.util.*;
+ //Days in a week
+import java.util.*; 
 class Mar{
    public static void main(String a[]){
       
@@ -21,7 +22,7 @@ result =switch(b){
             default ->  "no";
             };
       System.out.println(result);
-      
+    day.close();  
    }
 
 
