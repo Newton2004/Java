@@ -5,7 +5,7 @@ class Student{
     int age = 20; 
     }
 
-public class day{
+public class Studentdetail{
     public static void main(String a[]){
         Student std = new Student();
         System.out.println(std.name1);      

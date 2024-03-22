@@ -1,9 +1,13 @@
-class hello{
+ //import java.io.*;
+ import java.util.*;
+ public class Hello{
     public static void main(String a[]){
-        int num=2;
-        int num1=4;
-        int result = num+num1;
-        System.out.print(result);
+    Scanner name = new Scanner (System.in);
+    
+    System.out.println("Enter your name");
+    String name1 = name.nextLine();
+    System.out.println("Hello " + name1);
+    name.close();
+        }
     }
-}
-
+ 
