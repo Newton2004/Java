@@ -4,9 +4,9 @@
     public static void main(String a[]){
     Scanner name = new Scanner (System.in);
     
-    System.out.println("Enter your namenewt");
-    String neme1 = name.nextLine();
-    System.out.println(neme1 + " is a User Name ");
+    System.out.println("Enter your name");
+    String name1 = name.nextLine();
+    System.out.println("Hello " + name1);
         }
     }
  
