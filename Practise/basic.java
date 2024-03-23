@@ -10,5 +10,6 @@ public class basic
         int num2=sc.nextInt();
         int result = num1+num2;
         System.out.println("Total = " +result);    
+        sc.close();
 }
 }
