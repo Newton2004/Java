@@ -1,7 +1,7 @@
  //Days in a week
 import java.util.*; 
-class Mar{
-   public static void main(String a[]){
+class Mar_5{
+   public static void main(String[] args){
       
       String result;
       
