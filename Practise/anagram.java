@@ -1,6 +1,6 @@
 public import java.util.Arrays;
 
-class anagram {
+class Anagram {
   public static void main(String[] args) {
     String str1 = "Race";
     String str2 = "Care";
